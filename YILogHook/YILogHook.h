@@ -6,7 +6,7 @@
 //  Copyright (c) 2013年 Yasuhiro Inami. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 typedef void(^YILogHookBlock)(NSString* message);
 
